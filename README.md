@@ -85,7 +85,13 @@ python 8-queens_puzzle.py
 
 - The program will prompt you to enter the number of queens to place on the board.
 - The program will then output the final configuration of the board with the queens placed.
+  
+---
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+---
+If you found these resources helpful, please give them a star! ⭐
+
